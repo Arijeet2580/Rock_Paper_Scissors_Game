@@ -16,7 +16,7 @@ def gameWin(comp, you):
             return False
         elif you == 'p':
             return True
-print("***********\nComp Turn: Rock(r) Paper(p) Scissor(s) ?\n**********")
+print("***********\nComputer's Turn: Rock(r) Paper(p) Scissor(s) ?\n**********")
 import random
 randNo = random.randint(1, 3)
 if randNo == 1:
@@ -31,7 +31,7 @@ a = gameWin(comp, you)
 print(f"Computer chose {comp}")
 print(f"You chose {you}")
 if a == None:
-    print("The game is a tie!")
+    print("The game ended in a draw!")
 elif a == True:
     print("Hurray!!!You Won the game!")
 else:
