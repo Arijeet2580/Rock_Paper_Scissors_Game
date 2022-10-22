@@ -16,7 +16,7 @@ def gameWin(comp, you):
             return False
         elif you == 'p':
             return True
-print("Comp Turn: Rock(r) Paper(p) Scissor(s) ?")
+print("***********\nComp Turn: Rock(r) Paper(p) Scissor(s) ?\n**********")
 import random
 randNo = random.randint(1, 3)
 if randNo == 1:
@@ -33,6 +33,6 @@ print(f"You chose {you}")
 if a == None:
     print("The game is a tie!")
 elif a == True:
-    print("You Win!")
+    print("Hurray!!!You Won the game!")
 else:
-    print("You Lose!")
+    print("You Lost the game!Better luck next time")
