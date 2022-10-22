@@ -25,8 +25,8 @@ elif randNo == 2:
     comp = 'p'
 elif randNo == 3:
     comp = 's'
-print("Computer has chosen")
-you = input("Your Turn: Rock(r) Paper(p) Scissor(s) ?\n")
+print("Computer has chosen ")
+you = input("********\nYour Turn: Rock(r) Paper(p) Scissor(s) ?\n********\n")
 a = gameWin(comp, you)
 print(f"Computer chose {comp}")
 print(f"You chose {you}")
