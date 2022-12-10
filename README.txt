@@ -1,4 +1,4 @@
-Rock paper scissors (also known by other orderings of the three items, with "rock" sometimes being titled "stone,") is a hand game originating from China, usually played 
+Rock Paper Scissors (also known by other orderings of the three items, with "rock" sometimes being titled "stone,") is a hand game originating from China, usually played 
 between two individuals, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a shut fist), "paper" (a flat 
 hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is alike to the two-fingered V sign (also indicating "success" 
 or "peace") apart that it is pointed horizontally instead of being held upright in the air.
